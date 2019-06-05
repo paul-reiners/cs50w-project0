@@ -4,4 +4,4 @@ Web Programming with Python and JavaScript
 
 ## Credits
 
-The [Minneapolis skyline photo](https://commons.wikimedia.org/wiki/File:2008-0712-MPLS-panorama.JPG) was taken by Bobak Ha'Eri, on July 12, 2008.
+Haskell code in image taken from *The Haskell Road to Logic, Maths, and Programmng* by Kees Doets and Jan van Eijck.
