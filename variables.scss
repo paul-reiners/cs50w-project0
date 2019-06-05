@@ -1,7 +1,8 @@
-$color: red;
+$color: blue;
+$font-size: 28px;
 
 ul {
-    font-size: 14px;
+    font-size: $font-size;
     color: $color;
 }
 
