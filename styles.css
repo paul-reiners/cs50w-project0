@@ -16,13 +16,13 @@ th, td {
 }
 
 @media (min-width: 500px) {
-    title::before {
+    h1::before {
         content: "Paul Reiners: ";
     }
 }
 
 @media (max-width: 499px) {
-    title::before {
+    h1::before {
         content: "Reiners: ";
     }
 }
