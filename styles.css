@@ -43,7 +43,7 @@ div ol {
 }
 
 .success {
-  background-color: green;
+  background-color: PaleGreen;
 }
 
 .warning {
@@ -62,6 +62,10 @@ div ol {
 #responsive-image {
   width: 100%;
   height: auto;
+}
+
+body {
+  margin: 20px;
 }
 
 /*# sourceMappingURL=styles.css.map */
