@@ -1,3 +1,6 @@
+$color: blue;
+$font-size: 28px;
+
 table {
   border: 2px solid black;
   border-collapse: collapse;
@@ -25,4 +28,16 @@ th, td {
     h1::before {
         content: "Reiners: ";
     }
+}
+
+div {
+  ul {
+      font-size: $font-size;
+      color: $color;
+  }
+
+  ol {
+      font-size: 18px;
+      color: $color;
+  }
 }
