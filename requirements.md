@@ -31,4 +31,4 @@ Alright, now it’s time to make your website your own. Design a personal webpag
     - DONE: at least one SCSS variable,
     - DONE: at least one example of SCSS nesting,
     - DONE: and at least one use of SCSS inheritance.
-* In README.md, include a short writeup describing your project, what’s contained in each file, and (optionally) any other additional information the staff should know about your project.
+* DONE: In README.md, include a short writeup describing your project, what’s contained in each file, and (optionally) any other additional information the staff should know about your project.
